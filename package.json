@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "engine.io": "1.6.11",
-    "socket.io-parser": "2.2.6",
+    "socket.io-parser": "https://github.com/nkrass/socket.io-parser",
     "socket.io-adapter": "https://github.com/nkrass/socket.io-adapter",
     "has-binary": "0.1.7"
   },
